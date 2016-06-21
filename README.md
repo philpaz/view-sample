@@ -1,2 +1,3 @@
 # view-sample
-Resources for review
+
+View Sample - This includes resources for review.
