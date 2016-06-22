@@ -28,6 +28,8 @@ View Sample - Also includes some example POC android reference implementation wo
 <b>example.android.activity</b>        
 &nbsp;&nbsp;-- InvoiceActivity.java<br>
 &nbsp;&nbsp;-- TransactionItemsActivity.java<br>
+&nbsp;&nbsp;-- GetTransactionItems.java<br>
+&nbsp;&nbsp;-- ServiceHandler.java<br>
 <b>example.res.layout</b>       
 &nbsp;&nbsp;-- activity_transaction_items.xml<br>
 &nbsp;&nbsp;-- fragment_transaction_items.xml<br>
