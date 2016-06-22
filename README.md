@@ -1,6 +1,6 @@
 # view-sample
 
-View Sample - This is a repository that holds a standards based JAX-RS API - partial reference implementation by Philip Paz. Jersey RESTful Web Services framework is open source, production quality, and framework for developing RESTful Web Services in Java that provides support for JAX-RS APIs and serves as a JAX-RS (JSR 311 & JSR 339) Reference Implementation.
+View Sample - This is a repository that holds a standards based JAX-RS API - partial reference implementation by Philip Paz. Jersey RESTful Web Services framework is open source, production quality, and a framework for developing RESTful Web Services in Java. It provides support for JAX-RS APIs and serves as a JAX-RS (JSR 311 & JSR 339) Reference Implementation.
 
 Jersey compliments by providing its own API that extends the JAX-RS toolkit with additional features and utilities to further simplify RESTful service and client development.
 
