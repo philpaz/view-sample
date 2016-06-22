@@ -1,15 +1,15 @@
 # view-sample
 
-View Sample - This is a repository that holds source code for a Jersey JAX-RS implmenetation. The repository includes a config applicatoinContext file that is used for @Autowire of bean jdbcTemplate. I have included a pom.xml to show prooject compile dependencies. Spring is used along with Java for annotations. This is a reference implemenation. 
+View Sample - This is a repository that holds source code for a standards based Jersey JAX-RS implmenetation by Philip Paz. The repository includes a ../config applicatoinContext for @Autowire of bean jdbcTemplate. I have included a pom.xml to show prooject compile dependencies and external libraries used. Spring is utilized for jdbc, annotations, @Transacational data. 
 
-This includes the following packages
+<b>View Sample includes the following packages and java source</b>
 
-com.rest.json.app 	    -- MyApplicatoin.java<br>
-com.rest.json.bean      -- ManufacturerBean.java
-com.rest.json.dao       -- ManufacturerDAO.java
-com.rest.json.filter    -- PoweredByResponseFilter.java
-com.rest.json.resource  -- ManufacturerResource.java
-config					-- ApplicatoinContext.xml
-maven					-- pom.xml
+<b>com.rest.json.app</b> 		-- MyApplicatoin.java<br>
+<b>com.rest.json.bean</b>      	-- ManufacturerBean.java<br>
+<b>com.rest.json.dao</b>       	-- ManufacturerDAO.java<br>
+<b>com.rest.json.filter</b>    	-- PoweredByResponseFilter.java<br>
+<b>com.rest.json.resource</b>  	-- ManufacturerResource.java<br>
+<b>config</b>					-- ApplicatoinContext.xml<br>
+<b>maven</b>					-- pom.xml<br>
 
 
