@@ -23,7 +23,7 @@ The repository also includes, for reference, the applicatoinContext.xml used for
 <b>maven</b>					
 &nbsp;&nbsp;-- pom.xml<br>
 
-View Sample - Also includes some example POC android reference implemeation work I was doing to expose the REST API service layer. These are portions of the .apk POC that includes Activities for Invoice and Transaction Items. I included the ../res/layout .xml files as examples. This is Android 4.4W.2 generation.
+View Sample - Also includes some example POC android reference implementation work I was doing to expose the REST API service layer. These are portions of the .apk POC that includes Activities for Invoice and Transaction Items. I included the ../res/layout .xml files as examples. This is Android 4.4W.2 generation.
 
 <b>example.android.activity</b>        
 &nbsp;&nbsp;-- InvoiceActivity.java<br>
