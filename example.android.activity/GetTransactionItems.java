@@ -14,7 +14,7 @@ import android.util.Log;
 public class GetTransactionItems extends AsyncTask<String, Void, ArrayList<TransactionItemsBean>> {
 	
     // URL to get contacts JSON
-    private static String url = "https://vendmicro.com/jzon/rest/transaction/items/";
+    private static String url = "https://vendmicro.com/json....";
     //private ArrayList<HashMap<String, String>> transactionItemList;
     private ArrayList<TransactionItemsBean> transactionItemList;
     int goodTogo;
