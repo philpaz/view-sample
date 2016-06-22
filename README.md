@@ -1,3 +1,3 @@
 # view-sample
 
-View Sample - This includes resources for review.
+View Sample - This includes resources for review. The following...
