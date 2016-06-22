@@ -4,7 +4,7 @@ View Sample - This is a repository that holds source code for a Jersey JAX-RS im
 
 This includes the following packages
 
-com.rest.json.app 	    -- MyApplicatoin.java
+com.rest.json.app 	    -- MyApplicatoin.java<br>
 com.rest.json.bean      -- ManufacturerBean.java
 com.rest.json.dao       -- ManufacturerDAO.java
 com.rest.json.filter    -- PoweredByResponseFilter.java
