@@ -9,7 +9,7 @@ The repository also includes, for reference, the applicatoinContext.xml used for
 <b>View Sample includes the following packages and java source</b>
 
 <b>com.rest.json.app</b>        
-&nbsp;&nbsp;Applicatoin.java<br>
+&nbsp;&nbsp;-- Applicatoin.java<br>
 <b>com.rest.json.bean</b>       
 &nbsp;&nbsp;-- ManufacturerBean.java<br>
 <b>com.rest.json.dao</b>       	
