@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" 
+    android:layout_height="fill_parent"
+  	xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout 
+        android:layout_width="fill_parent" 
+        android:layout_height="fill_parent">
+        <TableLayout 
+            android:layout_width="fill_parent" 
+            android:layout_height="fill_parent" 
+            android:stretchColumns="1">
+            <TableRow>
+    			<TextView android:textSize="16.0sp" 
+        			android:textStyle="bold" 
+       			 	android:textColor="#ff43bd00" 
+        			android:id="@+id/channel"
+        			android:paddingTop="6.0dip" 
+        			android:paddingBottom="2.0dip" 
+        			android:layout_width="wrap_content" 
+        			android:layout_height="wrap_content">
+        		</TextView>
+        		<TextView
+        			android:textColor="#ff5d5d5d" 
+        			android:gravity="right" 
+        			android:text="@string/dollar_sign"
+           			android:layout_width="wrap_content" 
+       		 		android:layout_height="wrap_content">
+        		</TextView>
+        		<TextView android:textStyle="bold" 
+        			android:textColor="#ff5d5d5d" 
+        			android:gravity="right" 
+        			android:id="@+id/retail"
+           			android:layout_width="wrap_content" 
+       		 		android:layout_height="wrap_content">
+        		</TextView>
+        		<CheckBox
+        			android:id="@+id/check01box"
+        			android:layout_width="wrap_content"
+        			android:layout_height="wrap_content"
+        			android:layout_marginLeft="4.0dip"
+        			android:checkMark="?android:attr/listChoiceIndicatorMultiple"
+        			android:layout_marginRight="10.0dip">
+    			</CheckBox> 
+            </TableRow>
+            
+            <!--TableRow>
+    			<TextView android:textColor="#ffacacac" 
+        				android:id="@+id/manufacturer"        
+        				android:paddingBottom="2.0dip" 
+        				android:layout_width="fill_parent" 
+        				android:layout_height="wrap_content">
+        		</TextView>
+            </TableRow-->
+            
+            <TableRow>
+     			<TextView android:textStyle="bold" 
+        			android:textColor="#ff5d5d5d" 
+        			android:gravity="left" 
+        			android:id="@id/name" 
+        			android:layout_width="wrap_content" 
+       		 		android:layout_height="wrap_content">
+        		</TextView>
+            </TableRow>
+            
+            <TableRow>
+    			<TextView android:textStyle="bold" 
+        			android:textColor="#ff5d5d5d" 
+        			android:gravity="left" 
+        			android:id="@+id/sku"
+        			android:layout_width="wrap_content"
+        			android:layout_height="wrap_content" >
+        		</TextView>
+            </TableRow>
+        </TableLayout>
+    </RelativeLayout>
+</ScrollView>
